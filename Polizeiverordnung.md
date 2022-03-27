@@ -6,5 +6,5 @@
 3) Die dauernde Aufhebung der Schliessungsstunde bedarf der Zustimmung des Gemeinderates.
 
 #### Art. 27 Sammlungen und Betteln
-1) Geld- und Naturalgabensammlungen auf öffentlichem Grund sowie von Haus zu Haus bedürfen einer Bewilligung des Ressorts Sicherheit.
+1) Geld- und Naturalgabensammlungen auf öffentlichem Grund sowie von Haus zu Haus bedürfen einer Bewilligung des Gemeinderates.
 2) Betteln ist verboten.
