@@ -1,4 +1,7 @@
 # Polizeiverordnung
+
+Inkrafttreten: 27.3.22
+
 ## VI. Wirtschafts- und Gewerbepolizei 
 #### Art. 26 Schliessungsstunde
 1) Die ordentliche Schliessungsstunde in Gastwirtschaften ist festeglegt auf 23 Uhr.
